@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 import "./Style.css"
 import { Link } from "react-router-dom";
-import ethers from 'ethers';
 export const Login = (props) => {
     const [email, setEmail]= useState('')
     const [pw, setPassword]= useState('')
