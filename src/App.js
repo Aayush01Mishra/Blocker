@@ -7,7 +7,6 @@ import { Register } from './Register';
 import MediaPage  from './MediaPage'
 import { Documents } from "./Documents";
 import { Media } from "./Media";
-import MetaMask from "./MetaMask";
 
 function App() {
   const[currentForm, setCurrentForm]=useState('login');

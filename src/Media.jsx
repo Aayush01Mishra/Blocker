@@ -1,6 +1,4 @@
-import {Link} from "react-router-dom";
 import "./media.css"
-import Button from '@material-ui/core/Button';
 
 export const Media = () => {
     return(
